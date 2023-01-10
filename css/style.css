@@ -130,3 +130,8 @@ html {
     font-weight: 400;
 }
 
+@media screen and (min-width:1064px){
+    .principal,.lista {
+        max-width:50vw;
+    }
+}
